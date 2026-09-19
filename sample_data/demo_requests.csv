@@ -1,0 +1,7 @@
+source,subject,text
+Email,Checkout outage for enterprise customer,"CRITICAL: checkout is down for our enterprise store and all orders are blocked. Need help immediately. Contact ops@northstar.example. Case #SUP-8842."
+Web form,Duplicate charge on account,"I was charged twice for invoice INV-55391 totaling $1,249.00. This is urgent and I need a refund today."
+Chat,Request for pricing demo,"We are evaluating your platform for 75 users and would like pricing plus a demo next week. sales@blueharbor.example"
+Email,Password reset problem,"I cannot access my account after the password reset. Please help. My email is user@sampleco.example."
+API,Delayed warehouse shipment,"Order ORD-77104 has not shipped and the delivery is due today. Please check the warehouse status."
+Manual,Positive customer note,"Thanks for the great support last week. Everything is working now and we appreciate the team."
